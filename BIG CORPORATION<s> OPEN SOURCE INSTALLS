@@ -1,1 +1,2 @@
 npm install -g @builder.io/ai-shell
+npm install -D typescript
