@@ -1,3 +1,4 @@
 npm install -D typescript
 npm install -g @builder.io/ai-shell
 pip install h2o_wave_university
+python3 -m pip install sklearn
